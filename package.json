@@ -1,0 +1,15 @@
+{
+  "name": "nubila-cmc-api",
+  "version": "1.0.0",
+  "description": "CoinMarketCap supply data API endpoints for Nubila Network (NB)",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Earth Labs Inc.",
+  "license": "MIT"
+}
