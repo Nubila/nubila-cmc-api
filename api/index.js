@@ -29,7 +29,7 @@ export default function handler(req, res) {
   <div class="endpoint">
     <strong>Circulating Supply</strong><br>
     <a href="/api/circulating-supply">/api/circulating-supply</a><br>
-    <small>Returns: 338,312,500 (33.83% of total supply)</small>
+    <small>Returns: 533,500,000 (53.35% of total supply)</small>
   </div>
 
   <p style="margin-top: 40px; color: #888; font-size: 13px;">
